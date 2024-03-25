@@ -1,0 +1,7 @@
+D:\Visual Studio save\pertemuan 3\pertemuan 3\obj\Debug\pertemuan 3.csproj.AssemblyReference.cache
+D:\Visual Studio save\pertemuan 3\pertemuan 3\obj\Debug\pertemuan 3.csproj.CoreCompileInputs.cache
+D:\Visual Studio save\pertemuan 3\pertemuan 3\bin\Debug\pertemuan 3.exe.config
+D:\Visual Studio save\pertemuan 3\pertemuan 3\bin\Debug\pertemuan 3.exe
+D:\Visual Studio save\pertemuan 3\pertemuan 3\bin\Debug\pertemuan 3.pdb
+D:\Visual Studio save\pertemuan 3\pertemuan 3\obj\Debug\pertemuan 3.exe
+D:\Visual Studio save\pertemuan 3\pertemuan 3\obj\Debug\pertemuan 3.pdb
